@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 dic = {"Micheal": 95, "Bob": 75, "Tracy": 85}
-print(dic["Bob"],"kk not in dic is","kk" in dic, "Bob IN dic is", "Bob" in dic)
+print(dic["Bob"], "kk not in dic is", "kk" in dic, "Bob IN dic is", "Bob" in dic)
 dic['KK'] = abs(98)
 # 二是通过dict提供的get()方法，如果key不存在，可以返回None，或者自己指定的value：
-print(dic.get("a"),dic,dic.get('a', -1))
+print(dic.get("a"), dic, dic.get('a', -1))
 # 注意：返回None的时候Python的交互环境不显示结果。
 # 要删除一个key，用pop(key)方法，对应的value也会从dict中删除：
 dic.pop("Bob")
-print("after pop bob is ",dic)
+print("after pop bob is ", dic)
 # 请务必注意，dict内部存放的顺序和key放入的顺序是没有关系的。
 # 和list比较，dict有以下几个特点：
 # 查找和插入的速度极快，不会随着key的增加而变慢；
@@ -24,30 +24,30 @@ print("after pop bob is ",dic)
 # Set Collection,set和dict类似，也是一组key的集合，但不存储value。由于key不能重复，所以，在set中，没有重复的key。
 # 要创建一个set，需要提供一个list作为输入集合：
 s = set([1, 2, 3])
-print("set is ",s)
-s = set([1,2,2,3,4,4])
-print("unique set's character is ",s)
+print("set is ", s)
+s = set([1, 2, 2, 3, 4, 4])
+print("unique set's character is ", s)
 s.add(5)
 s.add(10)
-print("s add some element is ",s)
+print("s add some element is ", s)
 tp = (1,2,3)
 dic[tp] = 3
-print("dic tp is ",dic)
+print("dic tp is ", dic)
 # 这个tuple里面含有可变的list集合所以不能够给dic使用
 # tp = (1,[2,3],4)
 dic[tp] = 5
-print("dic tp is ",dic)
+print("dic tp is ", dic)
 s.remove(10)
 print(s)
 # set可以看成数学意义上的无序和无重复元素的集合，因此，两个set可以做数学意义上的交集、并集等操作
-s1 = set([1,2,3])
-s2 = set([2,3,4])
+s1 = set([1, 2, 3])
+s2 = set([2, 3, 4])
 print("intersection = ", s1 & s2)
 print("union set= ", s1 | s2)
 # list集合可变
-a = ['a','b','c']
+a = ['a', 'b', 'c']
 a.sort()
 print(a)
 str = 'abc'
 change = str.replace('a', "A")
-print("str =",str,"change = ",change)
+print("str =", str, "change = ", change)
