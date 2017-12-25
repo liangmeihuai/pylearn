@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b9b15fc-9ead-4d11-8821-2bc650a9f2a3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cn/meihuai/learn/highcharacter/IteratorTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cn/meihuai/learn/highcharacter/ListGenerateTest.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,12 +13,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="IteratorTest.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IteratorTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/highcharacter/IteratorTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="303">
+              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListGenerateTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/highcharacter/ListGenerateTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1878181938/nt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="291" column="4" lean-forward="false" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -27,7 +47,7 @@
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1878181938/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97560">
+            <state relative-caret-position="101016">
               <caret line="2806" column="67" lean-forward="false" selection-start-line="2806" selection-start-column="60" selection-end-line="2806" selection-end-column="67" />
               <folding />
             </state>
@@ -37,8 +57,8 @@
       <file leaf-file-name="SliceTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/highcharacter/SliceTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="972">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,6 +98,7 @@
         <option value="$PROJECT_DIR$/cn/meihuai/learn/IfPythonTest.py" />
         <option value="$PROJECT_DIR$/cn/meihuai/learn/pythonbase/DicSetTest.py" />
         <option value="$PROJECT_DIR$/cn/meihuai/learn/highcharacter/IteratorTest.py" />
+        <option value="$PROJECT_DIR$/cn/meihuai/learn/highcharacter/ListGenerateTest.py" />
       </list>
     </option>
   </component>
@@ -86,6 +107,25 @@
     <option name="y" value="37" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -175,25 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IteratorTest">
-    <configuration name="FunctionTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cn/meihuai/learn/pythonfunction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pylearn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cn/meihuai/learn/pythonfunction/FunctionTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ListGenerateTest">
     <configuration name="IteratorTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,6 +229,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pylearn" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cn/meihuai/learn/highcharacter/IteratorTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ListGenerateTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cn/meihuai/learn/highcharacter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pylearn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cn/meihuai/learn/highcharacter/ListGenerateTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +307,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FunctionTest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PowerTest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.RecursiveFunc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SliceTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.IteratorTest" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PowerTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RecursiveFunc" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SliceTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.IteratorTest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ListGenerateTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IteratorTest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SliceTest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RecursiveFunc" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PowerTest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FunctionTest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ListGenerateTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.IteratorTest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SliceTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RecursiveFunc" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PowerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513824918336</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="python function iterable Test.py">
+      <created>1513850034820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1513850034822</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -357,13 +404,13 @@
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3481953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3481953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39915073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -381,7 +428,8 @@
     <MESSAGE value="python base sub-package abt dictionary and set collection" />
     <MESSAGE value="python function module exercise" />
     <MESSAGE value="python function module exercise2" />
-    <option name="LAST_COMMIT_MESSAGE" value="python function module exercise2" />
+    <MESSAGE value="python function iterable Test.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="python function iterable Test.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -425,13 +473,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/pythonbase/ForEachTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/pythonfunction/PowerTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -758,15 +799,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/highcharacter/SliceTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="972">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1878181938/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97560">
+        <state relative-caret-position="101016">
           <caret line="2806" column="67" lean-forward="false" selection-start-line="2806" selection-start-column="60" selection-end-line="2806" selection-end-column="67" />
           <folding />
         </state>
@@ -774,8 +815,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/highcharacter/IteratorTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="303">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1878181938/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="291" column="4" lean-forward="false" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn/meihuai/learn/highcharacter/ListGenerateTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding />
         </state>
       </provider>
