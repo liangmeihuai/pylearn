@@ -22,6 +22,14 @@ print("m + n is ", mn)
 listFiles = [d for d in os.listdir('.')]
 print("listFiles is ", listFiles)
 d = {'x': 'A', 'y': 'B', 'z': 'C'}
-for k,v in d.items():
+for k, v in d.items():
     print(k, '=', v)
+
+L = ["Hello", "World", "IBM", "Apple"]
+result = [s.lower() for s in L]
+print("result = ", result)
+
+x = "123"
+y = 123
+print("isInstance of x str", isinstance(x, str), "isInstance of Y str", isinstance(y, str))
 
